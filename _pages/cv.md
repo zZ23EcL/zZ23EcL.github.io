@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Pattern recognition and intelligent system, University of Science and Technology of China, 2027 (expected)
+* M.S. in Pattern recognition and intelligent system, University of Science and Technology of China, 2021-Now
+* B.S. in Automation, China University of Geosciences，Wuhan, 2017-2021
 
 Work experience
 ======
