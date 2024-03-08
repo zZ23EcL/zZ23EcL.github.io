@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xinyan Zhao / Site Title"
+title                    : "Xinyan Zhao / Homepage"
 title_separator          : "-"
 name                     : &name "Xinyan Zhao"
-description              : &description "hello"
+description              : &description "This is Xinyan Zhao homepage."
 url                      : https://zZ23EcL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zZ23EcL/zZ23EcL.github.io"
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Xinyan Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "A lazy dog"
-  location         : "Hefei， China"
+  bio              : "Robotics/AI"
+  location         : "Hefei China"
   employer         : "USTC"
   uri              : # URL
   email            : "xinyanzhao@mail.ustc.edu.cn" 
