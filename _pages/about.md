@@ -11,7 +11,7 @@ Hi,it's Xinyan Zhao. I'm a graduate student in Pattern Recognition and Intellige
 
 Research Interests
 ======
-My research interests lie in the area of human-machine interaction, especially wearable robots adaptive optimization and reinforcement learning in gait planning. I aspire to pioneer developments in Machine Learning that enhance machine perception and creativity, with the ultimate goal of crafting intelligent systems that are both profound in capability and universal in accessibility.
+My research interests lie in the area of human-machine interaction and rehabilitation robots. I aspire to pioneer developments in robots and artificial intelligence that enhance machine perception and creativity, with the ultimate goal of crafting rehablitation systems that are both profound in capability and universal in accessibility.
 
 A data-driven personal website
 ======
