@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi,it's Xinyan Zhao. I'm a PhD student in Pattern Recognition and Intelligent System at University of Science and Technology of China(USTC). I am currently working with Prof. Quanjun Song at Institute of Intelligent Machines,Heifei Institutes of Physical Science,Chinese Acadamy of Science. Also，I‘m currently working with Shanghai Innovative Institude
+Hi,it's Xinyan Zhao. I'm a PhD student in Pattern Recognition and Intelligent System at University of Science and Technology of China(USTC) & Shanghai Innovative Institude. I am currently working with Prof. Quanjun Song & Bo Song at Institute of Intelligent Machines,Heifei Institutes of Physical Science,Chinese Acadamy of Science. 
 
 Research Interests
 ======
-My research interests lie in the area of human-machine interaction and rehabilitation robots. I aspire to pioneer developments in robots and artificial intelligence that enhance machine perception and creativity, with the ultimate goal of crafting rehablitation systems that are both profound in capability and universal in accessibility.
+My research interests lie in the area of human-machine interaction robot learning and rehabilitation robots. I aspire to pioneer developments in robots and artificial intelligence that enhance machine perception and creativity, with the ultimate goal of crafting rehablitation systems that are both profound in capability and universal in accessibility.
 
 Research 
 ======
