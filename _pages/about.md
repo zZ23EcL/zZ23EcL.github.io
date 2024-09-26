@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi,it's Xinyan Zhao. I'm a PhD student in Pattern Recognition and Intelligent System at University of Science and Technology of China(USTC) & Shanghai Innovative Institude. I am currently working with Prof. Quanjun Song & Bo Song at Institute of Intelligent Machines,Heifei Institutes of Physical Science,Chinese Acadamy of Science. 
+Hi,it's Xinyan Zhao. I'm a PhD student in Pattern Recognition and Intelligent System at University of Science and Technology of China(USTC) & Shanghai Innovative Institude. I am currently working with Prof. Quanjun Song & [Prof. Bo Song](http://www.iim.cas.cn/sourcedb_iim_hf_cas/rcdw/zgj/zngzjs/202308/t20230817_748828.html) at Institute of Intelligent Machines,Heifei Institutes of Physical Science,Chinese Acadamy of Science. 
 
 Research Interests
 ======
