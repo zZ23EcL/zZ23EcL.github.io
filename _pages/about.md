@@ -7,13 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi,it's Xinyan Zhao. I received a B.S. in Automation from China University of Geosciences, Wuhan in 2021. In the following year, I began my master's studies in Pattern Recognition and Intelligent Systems at the University of Science and Technology of China(USTC), where my advisors were [Prof. Quanjun Song](http://www.iim.cas.cn/sourcedb_iim_hf_cas/rcdw/zgj/zngzjs/202308/t20230817_748826.html) & [Prof. Bo Song] at Institute of Intelligent Machines,Heifei Institutes of Physical Science,Chinese Acadamy of Science. Currently, I am pursuing a Ph.D. through a combined master's and doctoral program at USTC and Shanghai Innovative Institude.
-
-
-
-
-
-
+Hi,it's Xinyan Zhao. I received a B.S. in Automation from China University of Geosciences, Wuhan in 2021. In the following year, I began my master's studies in Pattern Recognition and Intelligent Systems at the University of Science and Technology of China(USTC), where my advisors were [Prof. Quanjun Song](http://www.iim.cas.cn/sourcedb_iim_hf_cas/rcdw/zgj/zngzjs/202308/t20230817_748826.html) & [Prof. Bo Song](http://www.iim.cas.cn/sourcedb_iim_hf_cas/rcdw/zgj/zngzjs/202308/t20230817_748828.html) at Institute of Intelligent Machines,Heifei Institutes of Physical Science,Chinese Acadamy of Science. Currently, I am pursuing a Ph.D. through a combined master's and doctoral program at USTC and Shanghai Innovative Institude.
 
 Research Interests
 ======
