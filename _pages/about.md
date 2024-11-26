@@ -11,7 +11,7 @@ Hi,it's Xinyan Zhao. I received a B.S. in Automation from China University of Ge
 
 Research Interests
 ======
-My research interests lie in the area of embodied AI, human-machine interaction, robot learning and rehabilitation robots. I aspire to pioneer developments in robots and artificial intelligence that enhance machine perception and creativity, with the ultimate goal of crafting rehablitation systems that are both profound in capability and universal in accessibility.
+My research interests lie in the area of embodied AI, human-robot interaction, robot learning and rehabilitation robots. I aspire to pioneer developments in robots and artificial intelligence that enhance machine perception and creativity, with the ultimate goal of crafting rehablitation systems that are both profound in capability and universal in accessibility.
 
 Research 
 ======
